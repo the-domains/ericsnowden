@@ -1,0 +1,23 @@
+name: EricSnowden
+favicon: null
+layout_spectrum: 0.850989154772833
+typography_spectrum: 0.7877943112980574
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.8383602111134678
+  lightness: 0.609766646521166
+  saturation: 0.46525353798642755
+  rhythmicContrast: 0.28339897212572396
+purpose: []
